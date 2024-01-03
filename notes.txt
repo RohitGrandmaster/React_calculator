@@ -1,0 +1,4 @@
+features not working 
+1.computation not working 
+2.enter digit not showing on display of calculator
+3.clear is not working
